@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinAll</string>
+    <string name="button_label_toast">Hello World!</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_clear">Clear</string>
+    <string name="toast_message">Hello World</string>
+    <string name="clear_message">Not an Odd Number</string>
+</resources>
